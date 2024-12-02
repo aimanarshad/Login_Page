@@ -1,0 +1,79 @@
+
+body{
+    background-color: #031b50;
+}
+.container{
+    height: 270px;
+    width: 230px;
+    background-color: rgb(243, 243, 247);
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 30%;
+    
+    border: 2px solid rgb(42, 18, 129);
+    
+
+}
+
+.login{
+    color: beige;
+    justify-items: center;
+    margin-top: 30px;
+    height: 30px;
+    width: 200px;
+}
+
+.login input{
+    font-size: 15px;
+    margin-left: 20px;
+    
+    border: 1px  solid rgb(68, 68, 62);
+    color: black;
+}
+.password input{
+    font-size: 15px;
+    margin-left: 2px;
+   
+    border: 1px  solid rgb(87, 87, 78);
+    color: black;
+}
+.btn{
+    margin: 10px;
+    background-color: rgb(5, 5, 92);
+    color: white;
+    width: 200px;
+    height: 30px;
+    border: 2px solid ;
+
+}
+.forget p{
+    font-size: smaller;
+    margin-top: 4px;
+
+}
+#f{
+    color: blue;
+    text-decoration: underline;
+}
+
+
+.forget h5{
+    margin-top: 0px;
+    color: orange;
+    font-weight: bold;
+}
+
+.msg_container{
+    height: 80%;
+    width: 80%;
+    color: rgb(182, 182, 169);
+    font-size: 50px;
+    text-align: center;
+    text-decoration: double;
+    text-transform: uppercase;
+    margin-top: 40%;
+}
+.hide{
+    display: none;
+}
